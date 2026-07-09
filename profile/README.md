@@ -1,2 +1,2 @@
-# .github
+# Yang Lab
 https://xiaoyanglab.com/
